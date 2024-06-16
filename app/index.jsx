@@ -8,7 +8,7 @@ export default function index() {
       <Text className="text-3xl">Aora!</Text>
       <StatusBar style="auto" />
       <Link href="/profile" style={{ color: 'blue' }}>
-        Go to profile
+        where it all began
       </Link>
     </View>
   );
