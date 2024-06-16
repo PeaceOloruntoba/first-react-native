@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "aora",
-    "slug": "aora",
+    "name": "first-react-native",
+    "slug": "first-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
